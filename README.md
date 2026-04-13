@@ -104,10 +104,10 @@ Feature engineering-ის ეტაპზე შეიქმნა ახალ
 
 **1. ობიექტის არსებობის ინდიკატორები (Presence Features)**
 
-    * HasGarage
-    - HasPool
-    - HasFireplace
-    + HasMasVnr
+  * HasGarage
+  - HasPool
+  - HasFireplace
+  + HasMasVnr
     
 **2. ფართობების აგრეგაცია**
 
